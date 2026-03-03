@@ -1,0 +1,60 @@
+Create a modern interactive landing page background with soft depth, subtle motion, and smooth theme switching (Dark Mode and Light Mode).
+
+🌙 Dark Mode
+
+Use a dark gradient base blending:
+Deep charcoal (#111318)
+Muted indigo (#1C1F3A)
+Soft violet-gray (#2B2F4A)
+
+Add:
+• Floating translucent glassmorphism blobs with soft blur and 20–30% opacity
+• Subtle glowing gradient orbs in teal (#00C9A7), coral (#FF6B6B), and lavender (#A78BFA)
+• Very light animated grain texture for depth
+• Slow floating particle motion reacting slightly to cursor movement
+• Soft radial glow following mouse position
+• Gentle blob morphing animation (very subtle)
+
+Keep glow refined and diffused. No harsh neon.
+
+☀️ Light Mode
+
+Use a soft gradient base blending:
+Soft white (#F8FAFC)
+Light lavender-gray (#EEF2FF)
+
+Replace glow-heavy effects with:
+• Soft pastel abstract shapes (mint #A7F3D0, blush pink #FBCFE8, light sky blue #BFDBFE)
+• Very subtle shadow depth instead of glow
+• Minimal particle motion
+• Faint radial highlight following cursor
+• Soft matte grain texture
+
+Keep it airy, elegant, and clean.
+
+🔘 Theme Toggle Button
+
+Add a floating toggle button in the top-right corner:
+
+Style:
+• Rounded pill shape
+• Glassmorphism style in Dark Mode
+• Soft shadow style in Light Mode
+• Smooth 300ms ease-in-out transition
+• Slight hover scale effect (1.05x)
+
+Inside the button:
+• Moon icon for Dark Mode
+• Sun icon for Light Mode
+• Sliding animation between icons when toggled
+
+Interaction:
+• Clicking smoothly transitions between themes
+• Background gradient, blobs, particles, glow, and UI elements animate between states
+• Blob colors softly morph to their theme equivalents
+
+Overall mood:
+Futuristic. Calm. Intelligent. Slightly playful.
+Minimal and elegant.
+No harsh contrast. No bright neon overload.
+Style reference: premium AI SaaS landing page.
